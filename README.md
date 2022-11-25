@@ -16,9 +16,10 @@ The resultant page should look like the following image
 
 ## Usage
 
-The live page can be viewed here, [https://fezzer.github.io/bootcamp_week1_challenge/](https://fezzer.github.io/bootcamp_week1_challenge/)
+The live page can be viewed here, [https://fezzer.github.io/bootcamp_week1_challenge/](https://fezzer.github.io/bootcamp_week1_challenge/).
 
 This is a screenshot of the competed challenge
+
 ![Complete challenge Screenshot](ReadmeAssets/final-screenshot.png)
 
 ## License
