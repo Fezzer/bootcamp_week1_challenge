@@ -12,7 +12,7 @@ The propose of this challenge was to refactor HTML and CSS so that it meets acce
 
 The resultant page should look like the following image
 
-![Required look of the webpage](ReadmeAssets/01-html-css-git-challenge-demo.png)
+![Required look of the webpage](assets/readme/01-html-css-git-challenge-demo.png)
 
 ## Usage
 
@@ -20,7 +20,7 @@ The live page can be viewed here, [https://fezzer.github.io/bootcamp_week1_chall
 
 This is a screenshot of the competed challenge
 
-![Complete challenge Screenshot](ReadmeAssets/final-screenshot.png)
+![Complete challenge Screenshot](assets/readme/final-screenshot.png)
 
 ## License
 
